@@ -1,7 +1,7 @@
-#  تنصيب سورس فير الجديد  V2 ⇓⇓⇓ 
+#  تنصيب سورس ITALY الجديد  V2 
 
 ```
-cd ~;rm -rf VEERV2;wget -q -O - "https://raw.githubusercontent.com/VeerCli/VEERV2/main/install.txt" | bash;cd VEERV2;python3.8 setup.py
+cd ~;rm -rf GANA;wget -q -O - "https://raw.githubusercontent.com/hidarr/GANA/main/install.txt" | bash;cd GANA;python3.8 setup.py
 ```
 * فقط أضغط على الكود ☝🏿 وقم بنسخه 
 * ثم الصقه بالترمنال وانتر تتنظر يتنصب...
@@ -9,4 +9,4 @@ cd ~;rm -rf VEERV2;wget -q -O - "https://raw.githubusercontent.com/VeerCli/VEERV
 * اولا تدخل التوكن ثم انتر
 * ثانيا ايدي المطور ثم انتر 
 
-* [قنواتنا على تيليجرام ...🍃](https://t.me/SAIEDCH/20)
+* [قنواتنا على تيليجرام ...🍃](https://t.me/EIEEK)
